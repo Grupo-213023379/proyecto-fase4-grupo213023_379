@@ -19,7 +19,7 @@ proyecto-fase4-grupo213023_379/
 │   ├── services/
 │
 ├── logs/
-├── .gitignore
+├─── .gitignore
 ├── README.md
 ```
 
@@ -27,7 +27,7 @@ proyecto-fase4-grupo213023_379/
 
 ## ⚙️ Tecnologías utilizadas
 
-* Python 3.x
+* Python 3.14
 * Git & GitHub
 * Programación orientada a objetos
 
@@ -57,9 +57,8 @@ python src/main.py
 
 ## 👥 Integrantes del grupo
 
-* Integrante 1
-* Integrante 2
-* Integrante 3
+* John Fredy Tocanchon Castañeda 
+* Angelica Fernanda Pinzon Albornoz 
 
 ---
 
