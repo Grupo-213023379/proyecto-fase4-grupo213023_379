@@ -14,3 +14,13 @@ Error al crear cliente: El correo ingresado no es válido
 ERROR:root:Error cliente: El correo ingresado no es v�lido
 Error al crear reserva: El servicio no puede estar vacío
 ERROR:root:Error reserva: El servicio no puede estar vac�o
+Error al crear cliente: El correo ingresado no es válido
+ERROR:root:Error cliente: El correo ingresado no es v�lido
+Error al crear reserva: El servicio no puede estar vacío
+ERROR:root:Error reserva: El servicio no puede estar vac�o
+Error al crear cliente: El correo ingresado no es válido
+2026-04-25 17:16:52,457 - ERROR - Operación 3 fallida: El correo ingresado no es válido
+Error en creación de Sala: El precio debe ser mayor a 0
+2026-04-25 17:16:52,458 - ERROR - Operación 7 fallida: El precio debe ser mayor a 0
+Error al crear reserva: El servicio no puede estar vacío
+2026-04-25 17:16:52,459 - ERROR - Operación 10 fallida: El servicio no puede estar vacío
