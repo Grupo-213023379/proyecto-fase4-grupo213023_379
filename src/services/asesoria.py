@@ -1,4 +1,4 @@
-from src.models.servicio import Servicio
+from models.servicio import Servicio
 
 
 class Asesoria(Servicio):

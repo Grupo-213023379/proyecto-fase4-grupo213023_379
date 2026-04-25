@@ -2,3 +2,7 @@ ERROR:root:Error cliente: Correo inv·lido
 ERROR:root:Error reserva: Servicio no v·lido
 ERROR:root:Error cliente: Correo inv·lido
 ERROR:root:Error reserva: Servicio no v·lido
+Error al crear cliente: El correo ingresado no es v√°lido
+ERROR:root:Error cliente: El correo ingresado no es v·lido
+Error al crear reserva: El servicio no puede estar vac√≠o
+ERROR:root:Error reserva: El servicio no puede estar vacÌo
