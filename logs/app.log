@@ -27,3 +27,33 @@ Error en creación de Sala: El precio debe ser mayor a 0
 Error al crear reserva: El servicio no puede estar vacío
 2026-04-25 17:16:52,459 - ERROR - Operación 10 fallida: El servicio no puede estar vacío
 >>>>>>> 8fc20581215564e3af2337cf1f6f336c20f1d6e7
+Error al crear cliente: El correo ingresado no es válido
+2026-05-06 14:13:27,073 - ERROR - Operación 3 fallida: El correo ingresado no es válido
+Error en creación de Sala: El precio debe ser mayor a 0
+2026-05-06 14:13:27,074 - ERROR - Operación 7 fallida: El precio debe ser mayor a 0
+Error al crear reserva: El servicio no puede estar vacío
+2026-05-06 14:13:27,075 - ERROR - Operación 10 fallida: El servicio no puede estar vacío
+Error al crear cliente: El correo ingresado no es válido
+2026-05-06 14:13:42,986 - ERROR - Operación 3 fallida: El correo ingresado no es válido
+Error en creación de Sala: El precio debe ser mayor a 0
+2026-05-06 14:13:42,988 - ERROR - Operación 7 fallida: El precio debe ser mayor a 0
+Error al crear reserva: El servicio no puede estar vacío
+2026-05-06 14:13:42,989 - ERROR - Operación 10 fallida: El servicio no puede estar vacío
+Error al crear cliente: El correo ingresado no es válido
+2026-05-06 14:14:15,282 - ERROR - Operación 3 fallida: El correo ingresado no es válido
+Error en creación de Sala: El precio debe ser mayor a 0
+2026-05-06 14:14:15,284 - ERROR - Operación 7 fallida: El precio debe ser mayor a 0
+Error al crear reserva: El servicio no puede estar vacío
+2026-05-06 14:14:15,286 - ERROR - Operación 10 fallida: El servicio no puede estar vacío
+Error al crear cliente: El correo ingresado no es válido
+2026-05-06 15:07:50,688 - ERROR - Operación 3 fallida: El correo ingresado no es válido
+Error en creación de Sala: El precio debe ser mayor a 0
+2026-05-06 15:07:50,689 - ERROR - Operación 7 fallida: El precio debe ser mayor a 0
+Error al crear reserva: El servicio no puede estar vacío
+2026-05-06 15:07:50,691 - ERROR - Operación 10 fallida: El servicio no puede estar vacío
+Error al crear cliente: El correo ingresado no es válido
+2026-05-06 15:08:16,281 - ERROR - Operación 3 fallida: El correo ingresado no es válido
+Error en creación de Sala: El precio debe ser mayor a 0
+2026-05-06 15:08:16,283 - ERROR - Operación 7 fallida: El precio debe ser mayor a 0
+Error al crear reserva: El servicio no puede estar vacío
+2026-05-06 15:08:16,284 - ERROR - Operación 10 fallida: El servicio no puede estar vacío
