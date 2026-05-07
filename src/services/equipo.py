@@ -2,7 +2,10 @@ from models.servicio import Servicio
 
 class Equipo(Servicio):
     """
-   Aca se crea la clase Equipo que representa el alquiler de dispositivos 
+ La clase Equipo representa un tipo de servicio dentro del sistema de reservas,
+orientado al alquiler de dispositivos o equipos tecnológicos. Gestiona la información
+básica del equipo, aplica validaciones para asegurar la integridad de los datos
+y permite calcular el costo del servicio según el tiempo de uso.
     """
 
     def __init__(self, nombre, precio, tipo):
