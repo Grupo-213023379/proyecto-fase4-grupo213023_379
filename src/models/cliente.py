@@ -1,8 +1,11 @@
 # Aca se crea la clase que representa a un cliente 
 class Cliente:
     """
-    La clase Cliente permite almacenar y gestionar la información básica de los usuarios.
-    Incluye validaciones para asegurar que los datos ingresados sean correctos.
+    La clase Cliente representa a los usuarios registrados en el sistema de reservas.
+Su función principal es almacenar y gestionar la información básica de cada cliente,
+como el nombre y el correo electrónico, aplicando validaciones para garantizar
+la integridad de los datos y utilizando encapsulamiento para proteger la información.
+
     """
 
     def __init__(self, nombre, correo):
