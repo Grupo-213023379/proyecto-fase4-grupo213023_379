@@ -3,7 +3,10 @@ from models.servicio import Servicio
 # Aca se crea la clase Sala
 class Sala(Servicio):
     """
-    La clase Sala gestiona el alquiler de espacios para reuniones o eventos.
+La clase Sala representa un servicio de alquiler de espacios dentro del sistema,
+destinado a la realización de reuniones o eventos. Gestiona información como el nombre
+y la capacidad del espacio, aplica validaciones para garantizar datos válidos y permite
+calcular el costo del servicio según el tiempo de uso.
     """
 
     def __init__(self, nombre, precio, capacidad):
