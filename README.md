@@ -60,6 +60,7 @@ python src/main.py
 * John Fredy Tocanchon Castañeda 
 * Angelica Fernanda Pinzon Albornoz 
 * Jefferson Arley Chaparro Moreno
+* Didyer Hernán Gordo Dussán
 ---
 
 ## 📌 Notas importantes
