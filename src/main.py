@@ -1,3 +1,11 @@
+# SISTEMA INTEGRAL SOFTWARE FJ- Este sistema simula la gestión de un servicio de reservas, permitiendo administrar clientes, servicios y reservas. El programa permite:
+# Registrar clientes en el sistema.
+# Crear diferentes tipos de servicios como salas, equipos y asesorías.
+# Realizar reservas asociando clientes con servicios.
+# Calcular el costo de los servicios según el tiempo de uso.
+# Manejar errores y registrarlos en un archivo de logs.
+# El sistema incluye control de errores para garantizar la estabilidad de las operaciones y mantener un registro de fallos en logs/app.log.
+
 # Importación del módulo logging para registrar errores en un archivo
 import logging
 
